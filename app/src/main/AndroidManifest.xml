@@ -24,6 +24,11 @@
             android:name=".activity.NotePageActivity"
             android:launchMode="standard"
             android:exported="true" />
+
+        <activity
+            android:name=".activity.SearchActivity"
+            android:launchMode="standard"
+            android:exported="true" />
     </application>
 
 </manifest>
